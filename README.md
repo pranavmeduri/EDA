@@ -1,9 +1,16 @@
 # EDA
 EDA is an approach to analyzing datasets to summarize their main characteristics often with statistical and visual methods, but primarily EDA is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task.
 
-The primary scope this project is an in-depth   study into the Exploratory data analysis and the various statistical and plotting tools to represent and understand the data set before modeling and machine learning is done. Our main objective is to use the iris dataset and classify a given iris flower into one of the three categories (setosa, virginica, versicolor). This is shown by plotting graphs to extract the essential features required before starting further analysis.
+The primary scope this project is an in-depth   study into the Exploratory data analysis and the various statistical and plotting tools to represent and understand the data set before modeling and machine learning is done.
 
-The project intends to critically revisit and access the following topics: Data and its types( Here an IRIS data set is taken and explained ) , EDA ( what and why is it done) , Analysis     Process (   Statistical measures: Measures of Central Tendency, Measures of Dispersion ) and Graphical Representation ( Scatter Plots and Pair Plots) to show which are the most useful features among sepal length, sepal width, petal length and petal width to identify various flower types.
+1)Our main objective is to use the iris dataset and classify a given iris flower into one of the three categories (setosa, virginica, versicolor). This is shown by plotting graphs to extract the essential features required before starting further analysis.
+
+2)Our main objective is to use The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
+Survival of patients who had undergone surgery for breast cancer.This is shown by plotting graphs to extract the essential features required before starting further analysis.
+
+
+
+The project intends to critically revisit and access the following topics: Data and its types( Here an IRIS data & Haberman data set is taken and explained ) , EDA ( what and why is it done) , Analysis     Process (   Statistical measures: Measures of Central Tendency, Measures of Dispersion ) and Graphical Representation ( Scatter Plots and Pair Plots) to show which are the most useful features among sepal length, sepal width, petal length and petal width to identify various flower types and also on the survival of patients who had undergone surgery for breast cancer.
 
 Tools
 
