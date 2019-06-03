@@ -1,4 +1,4 @@
-# EDA
+# EDA (Exploratory Data Analysis)
 EDA is an approach to analyzing datasets to summarize their main characteristics often with statistical and visual methods, but primarily EDA is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task.
 
 The primary scope this project is an in-depth   study into the Exploratory data analysis and the various statistical and plotting tools to represent and understand the data set before modeling and machine learning is done.
